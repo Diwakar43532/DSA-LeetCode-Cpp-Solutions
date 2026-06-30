@@ -94,3 +94,19 @@ If you like this repository, don't forget to ⭐ Star it!
 Happy Coding! 🚀
 
 ---
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0053-maximum-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0053-maximum-subarray) |
+<!---LeetCode Topics End-->
