@@ -100,6 +100,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0136-single-number) |
 ## Divide and Conquer
@@ -114,4 +115,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0136-single-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
