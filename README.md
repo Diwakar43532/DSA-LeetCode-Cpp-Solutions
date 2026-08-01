@@ -103,6 +103,7 @@ Happy Coding! 🚀
 | [0011-container-with-most-water](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0238-product-of-array-except-self) |
 ## Divide and Conquer
 |  |
@@ -120,6 +121,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0011-container-with-most-water) |
+| [0189-rotate-array](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
@@ -128,4 +130,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0238-product-of-array-except-self) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
