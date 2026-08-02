@@ -105,6 +105,7 @@ Happy Coding! 🚀
 | [0136-single-number](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -117,6 +118,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -134,4 +136,17 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0268-missing-number) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
