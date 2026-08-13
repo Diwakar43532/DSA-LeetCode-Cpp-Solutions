@@ -101,6 +101,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0011-container-with-most-water) |
+| [0048-rotate-image](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0189-rotate-array) |
@@ -135,6 +136,7 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0268-missing-number) |
 ## Hash Table
@@ -149,4 +151,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0268-missing-number) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
