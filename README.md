@@ -112,6 +112,7 @@ Happy Coding! 🚀
 | [0240-search-a-2d-matrix-ii](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0881-boats-to-save-people) |
 ## Divide and Conquer
 |  |
@@ -162,6 +163,7 @@ Happy Coding! 🚀
 | [0240-search-a-2d-matrix-ii](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Sorting
 |  |
 | ------- |
@@ -185,4 +187,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0069-sqrtx) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
