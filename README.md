@@ -146,6 +146,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0268-missing-number) |
 ## Hash Table
@@ -157,6 +158,7 @@ Happy Coding! 🚀
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0704-binary-search) |
@@ -179,4 +181,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0881-boats-to-save-people) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
