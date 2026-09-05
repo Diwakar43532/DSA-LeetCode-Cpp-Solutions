@@ -155,6 +155,7 @@ Happy Coding! 🚀
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -171,6 +172,7 @@ Happy Coding! 🚀
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0268-missing-number) |
 | [0881-boats-to-save-people](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0881-boats-to-save-people) |
 ## Matrix
@@ -195,4 +197,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
