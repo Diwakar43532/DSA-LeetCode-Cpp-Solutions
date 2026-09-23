@@ -135,6 +135,7 @@ Happy Coding! 🚀
 | ------- |
 | [0011-container-with-most-water](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0189-rotate-array) |
+| [0443-string-compression](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0443-string-compression) |
 | [0881-boats-to-save-people](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
@@ -201,4 +202,5 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
