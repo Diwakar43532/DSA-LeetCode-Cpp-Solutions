@@ -151,6 +151,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0268-missing-number) |
@@ -208,6 +209,7 @@ Happy Coding! 🚀
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
