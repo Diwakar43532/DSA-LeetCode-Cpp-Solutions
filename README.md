@@ -125,6 +125,7 @@ Happy Coding! 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
@@ -206,6 +207,7 @@ Happy Coding! 🚀
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0443-string-compression) |
 ## Recursion
@@ -220,5 +222,10 @@ Happy Coding! 🚀
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0078-subsets) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
