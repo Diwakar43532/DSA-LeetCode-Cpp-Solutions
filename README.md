@@ -107,6 +107,7 @@ Happy Coding! 🚀
 | [0048-rotate-image](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0054-spiral-matrix) |
+| [0078-subsets](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -129,6 +130,7 @@ Happy Coding! 🚀
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -215,4 +217,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Diwakar43532/DSA-LeetCode-Cpp-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
